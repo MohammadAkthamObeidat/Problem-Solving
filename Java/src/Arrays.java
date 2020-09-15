@@ -5,7 +5,7 @@ class Arrays {
     public static void main(String[] args) {
 
         int a[] = { 1, 2, 4, 5, 6 };
-
+        // Moahmmad Aktham Obeidat
         int miss = getMissingNo(a, 5);
         System.out.println(miss);
 
